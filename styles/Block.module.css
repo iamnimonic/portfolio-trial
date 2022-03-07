@@ -1,0 +1,11 @@
+.container {
+    box-sizing: border-box;
+    border-radius: 5px;
+    min-width: 300px;
+    min-height: 300px;
+    display: inline-block;
+    background-color: lightcyan;
+    margin: 1rem;
+    resize: both;
+    overflow: auto;
+}
